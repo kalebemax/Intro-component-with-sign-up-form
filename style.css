@@ -101,7 +101,7 @@ input {
      } 
 
     main {
-        margin: 0px;
+        margin-top: 100px;
 
 
         display: flex;
@@ -113,18 +113,18 @@ input {
         flex-flow: column;
 
         text-align: left;
-        padding-right: 0px;
     }
 
     h1 {
         font-size: 3.5em;
+        margin-left: 40px;
     }
      
     section {
-        height: 50px;
-        width: 995px;
-        margin-right: -500px;
-        margin-top: 30px;
+        height: 40px;
+        width: 900px;
+        margin-right: -510px;
+        margin-top: 10px;
         padding: 10px;
         
         display: flex;
@@ -138,7 +138,7 @@ input {
     nav {
         width: 450px;
         padding: 30px;
-        margin-top: 115px;
+        margin-top: 92px;
         margin-right: 40px;
 
         display: flex;
