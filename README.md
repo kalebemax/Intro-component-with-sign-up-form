@@ -7,7 +7,7 @@ This is my solution to the [Intro component with sign up form challenge on Front
 
 
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/intro-component-with-sign-up-form-using-flexbox-Uqx_uNP8X-)
-- Live Site URL: [Github](https://kalebemax.github.io/intro-component-with-sign-up-form/)
+- Live Site URL: [GitHub](https://kalebemax.github.io/intro-component-with-sign-up-form/)
 
 
 <h2>Built with</h2>
