@@ -10,6 +10,8 @@
 
 body {
     background-image: url(images/bg-intro-mobile.png);
+    background-position: top center;
+    background-repeat: no-repeat;
     background-color: hsl(0, 100%, 74%);
     color: white;
     font-size: 16px;
@@ -94,7 +96,9 @@ input {
 
 @media (min-width: 992px) {
     body {
-            background-image: url(/images/bg-intro-desktop.png);
+            background-image: url(images/bg-intro-desktop.png);
+            background-position: top center;
+            background-repeat: no-repeat;
      } 
 
     main {
